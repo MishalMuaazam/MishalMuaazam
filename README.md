@@ -1,131 +1,182 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Mishal Muazzam</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,50:1f1f1f,100:ffffff&text=Hi,%20I'm%20Anam%20Ghafoor&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=AI/ML%20Engineer%20in%20Progress%20%7C%20CS%20Student%20%7C%20Builder&descSize=16&descAlignY=58" />
+<h3 align="center">
+🎓 Computer Science Student | 🤖 AI Developer | 🌐 Full Stack Developer
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+in+Progress;Machine+Learning+%7C+Deep+Learning+%7C+GenAI;Building+real-world+AI+projects;Always+learning%2C+always+improving" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+Developer;Full+Stack+Developer;Python+Enthusiast;Machine+Learning+Model+Trainer;Networking+Learner;Open+Source+Contributor" />
+</p>
 
-<br><br>
+---
 
-<a href="mailto:anam.ghafoor00@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black" />
-</a>
-<a href="https://www.linkedin.com/in/anam-ghafoor-6b6b65371">
-  <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" />
-</a>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+# 💫 About Me
+
+- 🎓 Computer Science Student
+- 🤖 AI Developer
+- 🌐 Full Stack Developer
+- 🐍 Python Enthusiast
+- 🧠 Machine Learning Model Trainer
+- 🌐 Networking Learner
+- 🚀 Passionate about AI Products & Automation
+- 📚 Always learning new technologies
+- ⚡ Building projects that solve real-world problems
+
+<br clear="right"/>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
 <a href="https://github.com/MishalMuaazam">
-  <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-</div>
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://youtube.com">
+<img src="https://skillicons.dev/icons?i=youtube" />
+</a>
+
+</p>
 
 ---
 
-## ✨ About Me
+# 💻 Tech Stack
 
-I am a **Computer Science student** passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI**.  
-I enjoy building practical AI projects, learning modern tools, and improving my GitHub step by step.
+<p align="center">
 
-- 🔭 Currently working on AI/ML and compiler-based projects  
-- 🌱 Learning Generative AI, LLM apps, automation, and advanced ML  
-- 🎯 Goal: Become a strong AI/ML Engineer  
-- 💻 Interested in real-world projects, internships, and open-source work  
-- ⚡ I believe in learning by building  
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgresql,git,github,vscode,linux,docker" />
+
+</p>
 
 ---
 
-## 🧠 Tech Stack
+# 🤖 AI & ML Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,git,github,vscode,mysql,flask" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-<br><br>
+</p>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-ffffff?style=for-the-badge&logo=scikitlearn&logoColor=black" />
-<img src="https://img.shields.io/badge/Deep%20Learning-ffffff?style=for-the-badge&logo=tensorflow&logoColor=black" />
-<img src="https://img.shields.io/badge/Generative%20AI-ffffff?style=for-the-badge&logo=openai&logoColor=black" />
-<img src="https://img.shields.io/badge/Data%20Science-ffffff?style=for-the-badge&logo=pandas&logoColor=black" />
+### AI Skills
 
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Migraine Analyzer  
-AI/ML based project for analyzing migraine-related patterns and making predictions using machine learning.
-
-**Tech:** Python, ML, Data Processing, Model Evaluation
-
-</td>
-<td width="50%">
-
-### 💻 BRUT / BRAT Compiler  
-A custom programming language/compiler project with lexer, parser, AST, code generation, and VS Code extension planning.
-
-**Tech:** Python, Compiler Design, VS Code Extension
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 Student Stress Predictor  
-Machine learning system for predicting student stress using data analysis and model training.
-
-**Tech:** Python, Scikit-learn, Data Analysis
-
-</td>
-<td width="50%">
-
-### 🏆 SOFTEC ML Hackathon  
-Medical cost prediction project built during hackathon participation.
-
-**Achievement:** Ranked among top participants
-
-</td>
-</tr>
-</table>
+- Machine Learning
+- Deep Learning
+- LLM Applications
+- AI Automation
+- NLP
+- Computer Vision
+- Model Fine-Tuning
+- Prompt Engineering
 
 ---
 
-## 📊 GitHub Stats
+# 🌐 Networking Skills
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MishalMuaazam&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MishalMuaazam&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
-
-<br><br>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishalMuaazam&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
-
-</div>
+- TCP/IP
+- Routing & Switching
+- DNS
+- DHCP
+- VPN
+- Network Security Basics
+- Cisco Packet Tracer
 
 ---
 
-## 🐍 Contribution Snake
+# 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/MishalMuaazam/MishalMuaazam/output/snake.svg" alt="Snake animation" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MishalMuaazam&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishalMuaazam&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🌟 Current Focus
+# 🔥 GitHub Streak
 
-```txt
-AI/ML Foundations        █████████░░
-Deep Learning            ███████░░░░
-Generative AI            ████████░░░
-Python Development       █████████░░
-Compiler Design          ███████░░░░
-GitHub & Open Source     ██████░░░░░
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=MishalMuaazam&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MishalMuaazam&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MishalMuaazam&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```text
+✓ Artificial Intelligence
+✓ Machine Learning
+✓ Full Stack Development
+✓ Networking
+✓ Cloud Computing
+✓ Open Source Contributions
+✓ SaaS Development
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/MishalMuaazam/MishalMuaazam/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📍 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MishalMuaazam&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+"Build. Learn. Improve. Repeat."
+
+</p>
+
+---
+
+<h3 align="center">
+🚀 Thanks For Visiting My Profile 🚀
+</h3>

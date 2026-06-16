@@ -180,3 +180,7 @@
 <h3 align="center">
 🚀 Thanks For Visiting My Profile 🚀
 </h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MishalMuaazam/MishalMuaazam/output/github-contribution-grid-snake.svg" />
+</p>
